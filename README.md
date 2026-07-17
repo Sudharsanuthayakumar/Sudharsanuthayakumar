@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUDHARSAN U</h1>
+<h1 align="center">Hello 👨‍💻, I'm SUDHARSAN U</h1>
 <h3 align="center"> Data Scientist | Specializing in IoT Systems & AI-Driven Solutions</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### About Me
 
-Electronics & Communication Engineering undergraduate (Velammal Engineering College, Class of 2027) focused on building intelligent, connected systems at the intersection of **Data Science, IoT, and Artificial Intelligence**.
+Electronics & Communication Engineering undergraduate (Velammal Engineering College,(2027) focused on building intelligent, connected systems at the intersection of **Data Science, IoT, and Artificial Intelligence**.
 
 - Currently developing smart-city solutions combining IoT architectures with AI-driven analytics
 - Pursuing a Certified Data Scientist program with DataMites
