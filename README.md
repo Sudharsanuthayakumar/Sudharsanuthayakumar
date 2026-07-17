@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sudharsan U</h1>
-<h3 align="center">Data Scientist in the making | Specializing in IoT Systems & AI-Driven Solutions</h3>
+<h1 align="center">Hi 👋, I'm SUDHARSAN U</h1>
+<h3 align="center"> Data Scientist | Specializing in IoT Systems & AI-Driven Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Connected+Systems;IoT+%2B+AI+%2B+Data+Science;Turning+Sensor+Data+into+Smart+Decisions;Actively+Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Connected+Systems;IoT+%2B+AI+%2B+Data+Science;Turning+Sensor+Data+into+Smart+Decisions;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,19 +17,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm an **Electronics & Communication Engineering** undergraduate (Velammal Engineering College, Class of 2027) building intelligent, connected systems at the intersection of **Data Science, IoT, and Artificial Intelligence**.
+Electronics & Communication Engineering undergraduate (Velammal Engineering College, Class of 2027) focused on building intelligent, connected systems at the intersection of **Data Science, IoT, and Artificial Intelligence**.
 
-- 🔭 Currently building smart-city solutions combining **IoT architectures** with **AI-driven analytics**
-- 🌱 Pursuing a **Certified Data Scientist** program with DataMites
-- ⚡ Hands-on experience turning theoretical concepts into practical, real-world systems — from embedded fire-alarm systems to AI-powered traffic management
-- 🎯 Actively seeking **internship and collaborative opportunities** in IoT, AI, and Data Science
-- 💬 Ask me about: Computer Vision, IoT (ESP32/MQTT), Embedded Systems, or Data Analytics
+- Currently developing smart-city solutions combining IoT architectures with AI-driven analytics
+- Pursuing a Certified Data Scientist program with DataMites
+- Experience translating theoretical concepts into functional systems — from embedded fire-alarm designs to AI-powered traffic management platforms
+- Open to internship and collaborative opportunities in IoT, AI, and Data Science
+- Areas of interest: Computer Vision, IoT (ESP32/MQTT), Embedded Systems, Data Analytics
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Programming & Databases**
 
@@ -85,26 +85,26 @@ I'm an **Electronics & Communication Engineering** undergraduate (Velammal Engin
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌊 IoT Intelligent Drainage Management System**
+**IoT Intelligent Drainage Management System**
 *Selected at EDII (Entrepreneurship Development and Innovation Institute)*
 
-Real-time IoT-based drainage monitoring tracking water level, flow rate, overflow, and hazardous gas accumulation, with cloud dashboards for proactive flood prevention.
+Real-time IoT-based drainage monitoring system tracking water level, flow rate, overflow, and hazardous gas accumulation, with cloud dashboards enabling proactive flood prevention.
 
 `IoT` `ESP32` `Cloud Monitoring` `Dashboards`
 
 </td>
 <td width="50%" valign="top">
 
-**🚦 AI-Driven Intelligent Traffic Management System**
+**AI-Driven Intelligent Traffic Management System**
 *Traffic Monitoring & Emergency Response*
 
-Computer vision + deep learning platform for real-time vehicle detection, traffic density analysis, number-plate–based theft detection, and automated emergency green-corridor creation.
+Computer vision and deep learning platform for real-time vehicle detection, traffic density analysis, number-plate–based theft detection, and automated emergency green-corridor creation.
 
 `Computer Vision` `Deep Learning` `YOLO`
 
@@ -113,16 +113,16 @@ Computer vision + deep learning platform for real-time vehicle detection, traffi
 <tr>
 <td width="50%" valign="top">
 
-**♻️ AI-Powered Autonomous Waste Collection Robot**
+**AI-Powered Autonomous Waste Collection Robot**
 
-Autonomous robot with AI-based obstacle avoidance, smart route planning, and IoT-connected real-time monitoring of collection metrics for sustainable urban waste management.
+Autonomous robot with AI-based obstacle avoidance, smart route planning, and IoT-connected real-time monitoring for sustainable urban waste management.
 
 `Robotics` `IoT` `Navigation`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 Autonomous Goods Carrying Robot** · *Mini Project*
+**Autonomous Goods Carrying Robot** · *Mini Project*
 
 A remote-free robot that autonomously follows a human to carry goods, with applications in retail, hospital delivery, and defense logistics.
 
@@ -133,19 +133,19 @@ A remote-free robot that autonomously follows a human to carry goods, with appli
 <tr>
 <td width="50%" valign="top">
 
-**🦯 Smart Blind Stick**
+**Smart Blind Stick**
 
-Arduino and ultrasonic-sensor based assistive device that detects obstacles and provides real-time alerts for visually impaired individuals.
+Arduino and ultrasonic-sensor–based assistive device that detects obstacles and provides real-time alerts for visually impaired individuals.
 
 `Arduino` `Ultrasonic Sensors` `Assistive Tech`
 
 </td>
 <td width="50%" valign="top">
 
-**🔥 Arduino-Based Fire Alarm System**
+**Arduino-Based Fire Alarm System**
 *Built during Embedded Systems Internship*
 
-Temperature and smoke sensor-based fire detection system triggering real-time alerts, built with hands-on sensor integration and circuit prototyping.
+Temperature and smoke sensor-based fire detection system triggering real-time alerts, developed through hands-on sensor integration and circuit prototyping.
 
 `Embedded Systems` `Sensors`
 
@@ -155,7 +155,7 @@ Temperature and smoke sensor-based fire detection system triggering real-time al
 
 ---
 
-### 💼 Experience
+### Experience
 
 | Role | Organization | Duration |
 |---|---|---|
@@ -165,17 +165,17 @@ Temperature and smoke sensor-based fire detection system triggering real-time al
 
 ---
 
-### 🎓 Education
+### Education
 
-**Bachelor of Engineering – Electronics & Communication Engineering**
-Velammal Engineering College, Anna University Chennai · CGPA: 7.3/10 · *Apr 2023 – May 2027*
+**Bachelor of Engineering — Electronics & Communication Engineering**
+Velammal Engineering College, Anna University Chennai · CGPA: 7.3/10 · Apr 2023 – May 2027
 
 **Higher Secondary & Secondary Education** — Physics, Chemistry, Mathematics, Computer Science (PCM)
-Velammal Vidyashram, CBSE · *2020 – 2023*
+Velammal Vidyashram, CBSE · 2020 – 2023
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - Certified Data Scientist — DataMites *(In Progress)*
 - Cryptography and Network Security — NPTEL
@@ -186,7 +186,7 @@ Velammal Vidyashram, CBSE · *2020 – 2023*
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharsanuthayakumar&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -199,14 +199,14 @@ Velammal Vidyashram, CBSE · *2020 – 2023*
 
 ---
 
-### 🌐 Languages
+### Languages
 
 English (Proficient) &nbsp;|&nbsp; Tamil (Native) &nbsp;|&nbsp; Hindi (Intermediate)
 
 ---
 
 <p align="center">
-  <i>💡 Open to internships and collaborative opportunities in IoT, AI, and Data Science — let's build something smart together!</i>
+  <i>Open to internships and collaborative opportunities in IoT, AI, and Data Science.</i>
 </p>
 
 <p align="center">
