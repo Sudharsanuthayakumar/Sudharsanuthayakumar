@@ -62,7 +62,7 @@
 
 ---
 
-### 💼 Experience
+### 💼 Internship
 
 - **Embedded Systems Intern** — Retech Solutions Pvt Ltd *(Nov 2025 – Dec 2025)*
 - **Signal & Telecommunication Trainee** — Southern Railway, Indian Railways *(Dec 2024)*
