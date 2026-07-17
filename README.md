@@ -189,15 +189,13 @@ Velammal Vidyashram, CBSE · *2020 – 2023*
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudharsanuthayakumar963&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanuthayakumar963&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharsanuthayakumar&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanuthayakumar&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanuthayakumar963&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanuthayakumar&hide_border=true" />
 </p>
-
-> **Note:** Replace `sudharsanuthayakumar963` in the stats card URLs above with your actual GitHub username for these to render correctly.
 
 ---
 
