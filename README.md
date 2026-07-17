@@ -155,7 +155,7 @@ Temperature and smoke sensor-based fire detection system triggering real-time al
 
 ---
 
-### Experience
+### Internship
 
 | Role | Organization | Duration |
 |---|---|---|
