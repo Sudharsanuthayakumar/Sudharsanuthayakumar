@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+Intelligent+IoT+%2B+AI+Systems;Computer+Vision+%7C+Deep+Learning+%7C+Data+Science;Turning+Smart+City+Ideas+Into+Working+Prototypes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+IoT+%26+AI+Specialist;Applying+Machine+Learning+to+Real-World+Systems;Designing+Data-Driven+Solutions+for+Smart+Cities" />
 </p>
 
 ---
