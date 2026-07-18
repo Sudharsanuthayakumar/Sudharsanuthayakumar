@@ -32,20 +32,9 @@ My core domain is **Data Science applied to IoT** — using computer vision, dee
 <br>
 
 <div align="center">
-
-| 🧠 Domain | 📍 Location | 🔭 Learning | 🎯 Seeking |
-|:---:|:---:|:---:|:---:|
-| Data Science + IoT + AI | Chennai, India | Applied Data Science | IoT · AI · DS Internships |
-
-</div>
-
-<br>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Data_Science-2E86C1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/IoT_Systems-16A085?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-C0392B?style=for-the-badge" />
 </div>
 
 ---
@@ -137,8 +126,6 @@ Robot capable of carrying goods and autonomously following a human without a rem
 #### 🦯 [Smart Blind Stick](#)
 Arduino and ultrasonic-sensor based assistive device for visually impaired individuals, detecting obstacles and providing real-time alerts.
 `Arduino` `Sensors` `Assistive Tech`
-
-> 💡 *Replace the `#` links above with your actual repository URLs once uploaded.*
 
 ---
 
